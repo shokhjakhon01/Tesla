@@ -1,0 +1,64 @@
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-Medium.ttf);
+    font-weight: 500;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+@font-face{
+    font-family: 'sf_Ui';
+    src: url(../fonts/SF_ui/SFUIText-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: 'sf_Ui';
+    src: url(../fonts/SF_ui/SFUIText-Semibold.ttf);
+    font-weight: 600;
+}
+
+@font-face{
+    font-family: 'font-awesome';
+    src: url(../fonts/font-awesome/fa-light-300.woff2);
+    font-weight: 300;
+}
+
+@font-face{
+    font-family: 'font-awesome';
+    src: url(../fonts/font-awesome/fa-regular-400.woff);
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: 'font-awesome';
+    src: url(../fonts/font-awesome/fa-solid-900.woff2);
+    font-weight: 900;
+}
+
+.fa{
+    font-family: 'font-awesome';
+    line-height: 1;
+    display: inline-block;
+    font-style: normal;
+}

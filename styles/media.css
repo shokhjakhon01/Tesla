@@ -1,0 +1,202 @@
+@media(max-width:1200px){
+  .section__tools{
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+  .section__tools-right{
+    width: 100%;
+  }
+
+  .section__tools-left{
+    position: static;
+    width: 100%;
+    
+  }
+
+  .dispaly{
+    display: flex;
+    margin-bottom: 60px;
+  }
+
+  .left__text{
+    margin-right: 0;
+  }
+
+  .left__div{
+    width: 50%;
+  }
+
+  .left__div2{
+    margin-top: 55px;
+  }
+
+  .left__phone{
+    margin-bottom: 21px;
+  }
+
+  .right__last{
+    margin-bottom: 52px;
+  }
+
+  .right__last-link{
+    width: 259px;
+    height: 55px;
+  }
+
+   .section__lastpart{
+    flex-direction: column-reverse;
+  }
+
+  .lastpart__div-car{
+    position: static;
+    width: 100%;
+  }
+
+  .section__car{
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .lastpart__info{
+    width: 100%;
+    display: flex;
+    
+  }
+
+  .lastpart__main{
+    display: flex;
+  }
+
+  .lastpart__div12{
+    width: 50%;
+  }
+
+  .lastpart__div22{
+    margin-top: 62px;
+  }
+
+  .fiveStars{
+    display: none;
+  }
+
+  .last__links-linkMain{
+    width: 220px;
+    height: 55px;
+  }
+}
+
+@media(max-width:992px){
+  .unlist__link{
+    padding: 0;
+  }
+  .navbar__list{
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .main__next-page{
+    flex-wrap: wrap;
+  }
+
+  .main__next-page-speed{
+    width: 50%;
+    justify-content: center;
+  }
+  .main__next-page-road{
+    width: 50%;
+    justify-content: center;
+  }
+}
+
+@media(max-width:768px){
+  .span1{
+    font-size: 25px;
+  }
+
+  .road__span{
+    font-size: 25px;
+  }
+
+  .left__div2{
+    display: none;
+  }
+
+  .left__div{
+  margin: auto;
+  width: 316px;
+}
+
+.lastpart__div22 {
+  display: none;
+}
+
+.left__text{
+  padding-right: 0;
+  padding-left: 0;
+  margin-bottom: 0;
+  height: 100%;
+  width: 316px
+}
+
+.left__title4{
+  padding: 0;
+  padding-top: 20px;
+}
+
+.lastpart__div12{
+  margin: auto;
+  width: 100%;
+}
+
+.lastpart__info-text{
+  padding: 0;
+}
+
+.lastpart__info-title{
+  padding: 0;
+  margin-top: 20px;
+}
+}
+
+@media(max-width:576px){
+  .main__intro-title1{
+    font-size: 70px;
+  }
+  .main__intro-text{
+    font-size: 12px;
+  }
+
+  .main__next-page{
+    flex-direction: column;
+  }
+
+  .main__next-page-speed{
+    margin-bottom: 15px;
+  }
+
+  .main__next-page-road{
+    margin-bottom: 15px;
+  }
+  .section__tools{
+    margin-top: 20px;
+  }
+
+  .right__last-link {
+    width: 150px;
+    height: 50px;
+  }
+
+  .last__links-linkMain{
+    width: 150px;
+    height: 50px;
+  }
+
+  .main__test{
+    margin-bottom: 15px;
+  }
+  
+  .right__title3{
+    top: 0;
+  }
+}
